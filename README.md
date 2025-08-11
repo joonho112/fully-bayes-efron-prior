@@ -42,7 +42,7 @@ This package enables full reproduction of all figures, tables, and results prese
 
 ### Step 1: Clone or Download Repository
 ```bash
-git clone https://github.com/[username]/efron-log-spline-replication.git
+git clone https://github.com/joonho112/efron-log-spline-replication.git
 cd efron-log-spline-replication
 ```
 
